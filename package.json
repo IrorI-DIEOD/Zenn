@@ -1,0 +1,23 @@
+{
+  "name": "zenn",
+  "version": "1.0.0",
+  "description": "This is the repository for Zen articles.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IrorI-DIEOD/Zenn.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IrorI-DIEOD/Zenn/issues"
+  },
+  "homepage": "https://github.com/IrorI-DIEOD/Zenn#readme",
+  "dependencies": {
+    "zenn-cli": "^0.1.161"
+  }
+}
