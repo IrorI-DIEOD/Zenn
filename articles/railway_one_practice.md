@@ -3,7 +3,7 @@ title: "RailwayにNextjsアプリケーションをデプロイする時のプ�
 emoji: "🕯"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["Railway", "TypeScript", "Nextjs", "Postgres", "DrizzleORM"]
-published: false
+published: true
 ---
 # はじめに
 Webサービスを作成した時に、ある程度整っているPaaSであると言われていたRailwayにデプロイしました。Railwayに何かをデプロイする時の解説記事がまだ少ないので、私がデプロイした時のやり方を一例としてまとめます。
